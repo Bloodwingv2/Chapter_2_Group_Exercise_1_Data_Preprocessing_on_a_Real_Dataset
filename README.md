@@ -2,7 +2,7 @@
 
 Group members
 
-Arya Shinde(Leader)
-Yash Annapure
-Mirang Bhandari
-Anushka Sawant
+Arya Shinde(Leader) <br>
+Yash Annapure <br>
+Mirang Bhandari <br>
+Anushka Sawant <br>
