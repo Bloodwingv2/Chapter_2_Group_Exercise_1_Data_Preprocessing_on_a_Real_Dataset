@@ -1,0 +1,9 @@
+[project]
+name = "chapter-2-group-exercise-1-data-preprocessing-on-a-real-dataset"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pandas>=3.0.0",
+]
