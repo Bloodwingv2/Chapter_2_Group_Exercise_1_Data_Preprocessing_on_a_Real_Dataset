@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project applies comprehensive data preprocessing techniques to a real-world dataset—**New York City Airbnb Open Data** from Kaggle. The exercise demonstrates practical skills in handling missing values, scaling features, managing noise, detecting outliers, and performing feature selection using scikit-learn and pandas.
+This project applies comprehensive data preprocessing techniques to a real-world dataset **New York City Airbnb Open Data** from Kaggle. The exercise demonstrates practical skills in handling missing values, scaling features, managing noise, detecting outliers, and performing feature selection using scikit-learn and pandas.
 
 ---
 
