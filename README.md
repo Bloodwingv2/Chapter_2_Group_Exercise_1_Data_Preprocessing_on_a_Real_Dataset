@@ -1,12 +1,12 @@
 # Chapter 2 Group Exercise 1: Data Preprocessing on a Real Dataset
 
-## 📋 Overview
+## Overview
 
 This project applies comprehensive data preprocessing techniques to a real-world dataset—**New York City Airbnb Open Data** from Kaggle. The exercise demonstrates practical skills in handling missing values, scaling features, managing noise, detecting outliers, and performing feature selection using scikit-learn and pandas.
 
 ---
 
-## 👥 Group Members
+## Group Members
 
 | Name | Matriculation Number | Role |
 |------|----------------------|------|
@@ -17,7 +17,7 @@ This project applies comprehensive data preprocessing techniques to a real-world
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 Apply data preprocessing techniques learned in Chapter 2 to a real-world dataset. The goal is to understand how raw data is prepared before applying machine learning models.
 
@@ -30,7 +30,7 @@ Apply data preprocessing techniques learned in Chapter 2 to a real-world dataset
 
 ---
 
-## 📊 Dataset Information
+## Dataset Information
 
 **Dataset Name:** New York City Airbnb Open Data 2019
 
@@ -54,7 +54,7 @@ The dataset includes ~49,000 records with substantial missing values and potenti
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Chapter_2_Group_Exercise_1_Data_Preprocessing_on_a_Real_Dataset/
@@ -69,7 +69,7 @@ Chapter_2_Group_Exercise_1_Data_Preprocessing_on_a_Real_Dataset/
 
 ---
 
-## 🚀 Environment Setup
+## Environment Setup
 
 ### Prerequisites
 - Python 3.13 or higher
@@ -93,23 +93,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 cd "e:\Master's Notes\1st Semester\Statistics and Machine Learning\Chapter_2_Group_Exercise_1_Data_Preprocessing_on_a_Real_Dataset"
 ```
 
-#### Step 3: Create and activate virtual environment with uv
-```bash
-# Create virtual environment
-uv venv
-
-# Activate virtual environment
-# On Windows (PowerShell):
-.venv\Scripts\Activate.ps1
-
-# On Windows (Command Prompt):
-.venv\Scripts\activate
-
-# On macOS/Linux:
-source .venv/bin/activate
-```
-
-#### Step 4: Install dependencies with uv sync
+#### Step 3: Install dependencies with uv sync
 ```bash
 # Synchronize and install all project dependencies
 uv sync
@@ -127,7 +111,23 @@ This command will:
 
 ---
 
-## 📖 Dependencies
+#### Step 4: Create and activate virtual environment with uv in terminal to add dependencies
+```bash
+# Create virtual environment
+uv venv
+
+# Activate virtual environment
+# On Windows (PowerShell):
+.venv\Scripts\Activate.ps1
+
+# On Windows (Command Prompt):
+.venv\Scripts\activate
+
+# On macOS/Linux:
+source .venv/bin/activate
+```
+
+## Dependencies
 
 All project dependencies are defined in [pyproject.toml](pyproject.toml):
 
@@ -149,7 +149,7 @@ dependencies = [
 
 ---
 
-## 📊 Tasks & Implementation
+## Tasks & Implementation
 
 ### Task 1: Handling Missing Values
 **Objective:** Identify and impute missing values appropriately
@@ -290,7 +290,7 @@ To execute the entire notebook:
 
 ---
 
-## 📈 Expected Output
+## Expected Output
 
 When running the notebook, you'll see:
 
@@ -320,7 +320,7 @@ When running the notebook, you'll see:
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Issue: `uv` command not found
 **Solution:** Ensure `uv` is installed and added to PATH. Restart terminal after installation.
@@ -340,7 +340,7 @@ When running the notebook, you'll see:
 
 ---
 
-## 📚 Concepts Covered
+## Concepts Covered
 
 - **Data Exploration:** Understanding dataset structure and characteristics
 - **Missing Value Imputation:** Strategic approaches based on data type
@@ -352,7 +352,7 @@ When running the notebook, you'll see:
 
 ---
 
-## 🎓 References
+## References
 
 - [Scikit-learn Preprocessing Documentation](https://scikit-learn.org/stable/modules/preprocessing.html)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
@@ -361,14 +361,12 @@ When running the notebook, you'll see:
 
 ---
 
-## 📄 License
+## License
 
 This is an academic exercise for educational purposes.
 
 ---
 
-**Last Updated:** January 2026
-**Python Version:** 3.13+
-**Project Status:** Complete
-Embedded method (e.g. Lasso)
-Explain why this method was chosen.
+**Last Updated:** January 2026 <br>
+**Python Version:** 3.13+ <br>
+**Project Status:** Complete <br>
