@@ -3,8 +3,8 @@
 # Group members:-
 
 Arya Shinde(Group Co-Ordinator) (100006646) <br>
-Yash Annapure <br>
-Mirang Bhandari <br>
+Yash Annapure (100006547)<br>
+Mirang Bhandari (100007049)<br>
 Anushka Sawant (100006644) <br>
 
 # Objective of Group Exercise:-
