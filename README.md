@@ -90,7 +90,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 
 #### Step 2: Navigate to the project directory
 ```bash
-cd "e:\Master's Notes\1st Semester\Statistics and Machine Learning\Chapter_2_Group_Exercise_1_Data_Preprocessing_on_a_Real_Dataset"
+cd "ProjectDirectory"
 ```
 
 #### Step 3: Install dependencies with uv sync
