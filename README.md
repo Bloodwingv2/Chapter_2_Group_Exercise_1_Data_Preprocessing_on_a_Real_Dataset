@@ -356,7 +356,6 @@ When running the notebook, you'll see:
 
 - [Scikit-learn Preprocessing Documentation](https://scikit-learn.org/stable/modules/preprocessing.html)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
-- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
 
 ---
